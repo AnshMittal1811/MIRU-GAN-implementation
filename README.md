@@ -4,4 +4,4 @@ This is a course that provided cursory knowledge to the concepts of Self Driving
 
 ### Prerequisites
 1. Unity Game Engine
-2. Unity MLAgents Toolkit
+2. Unity ML-Agents

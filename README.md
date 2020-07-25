@@ -8,4 +8,4 @@ This is a course that provided cursory knowledge to the concepts of Self Driving
 
 ### Assets
 
-The Assets folder has been removed due to the limit of the Github Repository. Please add the Assets folder which is given [here]().
+The Assets folder has been removed due to the limit of the Github Repository. Please add the Assets folder to this repository which is given [here]().

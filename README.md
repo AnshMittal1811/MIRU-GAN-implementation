@@ -5,3 +5,7 @@ This is a course that provided cursory knowledge to the concepts of Self Driving
 ### Prerequisites
 1. Unity Game Engine
 2. Unity ML-Agents
+
+### Assets
+
+The Assets folder has been removed due to the limit of the Github Repository. Please add the Assets folder which is given [here]().
